@@ -1,0 +1,32 @@
+<?php
+return [
+    'home' => 'Home',
+    'about' => 'About',
+    'order' => 'Order',
+    'login' => 'Login',
+    'register' => 'Register',
+    'cart' => 'Cart',
+    'address_restaurant' =>'234 Main Street, Uni 01, New Mexico City',
+    'time_open' => 'Mon - Fri: 08:00 am - 10:00 pm',
+    'time_open_2' => 'Sat - Sun: 10:00 am - 11:00',
+    'tel' => '+01 (234) 56 56 789',
+    'enter_your_email' => 'Enter your email',
+    'page_title' => 'Order Online Your Food',
+    'foods' => 'Foods',
+    'drinks' => 'Drinks',
+    'quick_links' => 'Quick Links',
+    'about_us' => 'About us',
+    'faq' => 'Faq',
+    'contacts' => 'Contacts',
+    'terms_and_conditions' => 'Terms and conditions',
+    'our_location' => 'Our Location',
+    'subscribe_us' => 'Subscribe Us',
+    'subscribe_to' => 'Subscribe to the La Vie newsletter to get regular update about offers',
+    'payment_options' => 'Payment Options',
+    'add_to_cart' => 'Add to cart',
+    'order_your_food' => 'Order your food',
+    'delivery_location' => 'Delivery location',
+    'delivery'  => 'Delivery',
+    'call_us' => 'Call us'
+
+];

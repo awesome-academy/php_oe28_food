@@ -13,3 +13,17 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css');
+
+mix.copy('resources/assets/js/all.js', 'public/js/all.js');
+
+mix.copy('resources/assets/js/custome.js','public/js/custome.js');
+
+mix.styles([
+    'resources/assets/css/my-account.css'
+], 'public/css/my-account.css');
+
+mix.styles([
+    'resources/assets/css/style.css'
+], 'public/css/style.css');
+
+

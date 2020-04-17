@@ -1,0 +1,32 @@
+<?php
+return [
+    'home' => 'Trang chủ',
+    'about' => 'Thông tin',
+    'order' => 'Đặt hàng',
+    'login' => 'Đăng nhập ',
+    'register' => 'Đang ký',
+    'cart' => 'Giỏ hàng',
+    'address_restaurant' =>'234 Main Street, Uni 01, New Mexico City',
+    'time_open' => 'T2 - T6: 08:00 am - 10:00 pm',
+    'time_open_2' => 'T7 - CN: 10:00 am - 11:00',
+    'tel' => '+01 (234) 56 56 789',
+    'enter_your_email' => 'Nhập email của bạn',
+    'page_title' => 'Đặt hàng trực tuyến',
+    'foods' => 'Đồ ăn',
+    'drinks' => 'Đồ uống',
+    'quick_links' => 'Liên kết nhanh',
+    'about_us' => 'Thông t',
+    'faq' => 'Câu hỏi',
+    'contacts' => 'Liên hệ',
+    'terms_and_conditions' => 'Các điều kiện và điều khoản',
+    'our_location' => 'Địa chỉ',
+    'subscribe_us' => 'Đăng ký ngay',
+    'subscribe_to' => 'Đăng ký để nhận được các ưu đãi mới nhát từ chúng tối',
+    'payment_options' => 'Lựa chọn thanh toán',
+    'add_to_cart' => 'Thêm vào giỏ',
+    'order_your_food' => 'Đặt đồ ăn',
+    'delivery_location' => 'Nhập địa chỉ giao hàng',
+    'delivery'  => 'Nhận hàng',
+    'call_us' => 'Gọi ngay'
+
+];

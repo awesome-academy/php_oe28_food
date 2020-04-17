@@ -14,7 +14,8 @@ yarn-error.log
 /public/css
 /public/js
 /.idea
-/public/images
-/public/fonts
 package-lock.json
-public/bower_components
+resources/js/app.js
+resources/js/bootstrap.js
+/public/bower_components
+/bower_components/*
